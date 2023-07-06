@@ -6,5 +6,6 @@ marshmallow
 python-dotenv
 gunicorn
 flask-migrate
+gunicorn
 flask
 sqlalchemy
